@@ -15,7 +15,7 @@ All characters depicted are adults.
 
 ## A one-day schedule simulation where you book a shoot, a public appearance, and a recorded set and watch her development tracks take shape.
 
-<p align="center"><a href="https://github.com/NTRanch/exposure">GitHub</a> · <a href="https://github.com/NTRanch/exposure/blob/main/LICENSE.md">License</a> · <a href="https://ntranch.itch.io">itch.io studio page</a></p>
+<p align="center"><a href="https://github.com/NTRanch/exposure">GitHub</a> · <a href="https://github.com/NTRanch/exposure/blob/main/LICENSE.md">License</a> · <a href="https://ntranch.itch.io">itch.io studio page</a> · <a href="https://github.com/NTRanch/exposure/releases/tag/v1.0.0">Release</a></p>
 
 ![Exposure header](../assets/brand/header.png)
 
