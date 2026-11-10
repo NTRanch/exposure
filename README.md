@@ -1,3 +1,5 @@
+> **Game page:** the full storefront page for this game lives at [docs/GAME-PAGE.md](docs/GAME-PAGE.md).
+
 # Exposure
 
 **Nice Thoughts Ranch** · Torogao Jam Program week 13 (Wave D — Features) · Lux · **Lua**
